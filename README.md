@@ -2,9 +2,6 @@
 
 Elaborato Ingegneria del Software
 
-Studente:
-
-  Salvatore Sipala
+Studente: Salvatore Sipala
   
-Matricola: 
-  O55000438
+Matricola: O55000438
